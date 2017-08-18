@@ -5,7 +5,7 @@ var uuid = require('uuid');
 
 var config = {
     apiKey: "AIzaSyBfrcF3Enrr2sVIuqtJKigs85EsqKaO44k",
-    authDomain: "usurvey-c797e.firebaseapp.com",
+    authDomain: "usurvey-c797e.firebaseapp",
     databaseURL: "https://usurvey-c797e.firebaseio.com",
     projectId: "usurvey-c797e",
     storageBucket: "usurvey-c797e.appspot.com",
